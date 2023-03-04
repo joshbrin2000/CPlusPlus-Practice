@@ -3,6 +3,7 @@
 #include <string>
 #include <map>
 using namespace std;
+//test
 
 enum choice {addi=1, subtr=2, multipl=3, divi=4, pullOut=5};
 map<string, choice> choices;
